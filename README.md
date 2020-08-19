@@ -4,4 +4,4 @@ This weather app allows the user to access weather info by searching by city nam
 
 My weather app is hosted here: https://aiyasiddig.github.io/WeatherApp/
 
-![Screenshot](assets/weatherdashboard1.png?raw=true "Title")
+![weatherdashboard1](https://user-images.githubusercontent.com/65461462/90581416-0853e200-e180-11ea-805e-d7a330dc9041.PNG)
